@@ -1,7 +1,7 @@
 # Algorithms
 Various algorithms in Java, including array, string, dynamic planning, recursion and etc.
 
-###Package specification
+### Package specification
 
 - string
   
